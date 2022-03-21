@@ -1,0 +1,134 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath, color}
+\usepackage{mdwmath}
+\usepackage{amssymb, epsf, epsfig, textcomp}
+\renewcommand{\baselinestretch}{1.3}
+\usepackage{a4wide}
+\newcommand{\argmin}{\mathop{\mathrm{argmin}}}
+
+\begin{document}
+\noindent\rule{\textwidth}{2pt}
+\begin{center}
+{\bf Technical University of Crete}\\
+{\bf School of Electrical and Computer Engineering} \\
+Course: {\bf Convex Optimization} \\
+Exercise 1 (100/1000) \\
+Report Delivery Date: 2 November 2021 \\
+Instructor: Athanasios P. Liavas \\
+\end{center}
+\rule{\textwidth}{.5pt}
+\vskip .1cm
+\noindent
+
+\noindent
+In this exercise, we will study simple concepts from Calculus of Several Variables (Taylor expansions), Convex Sets, and Convex Functions (Note:
+{\color{blue}
+$\mathbb{R}_+=\{x\in\mathbb{R}\,|\, x\ge 0\}$,
+$\mathbb{R}_{++}=\{x\in\mathbb{R}\,|\, x> 0\}$}). 
+
+\noindent
+{\tt You must prepare an electronic (LaTeX) report and deliver its hardcopy}. %(no hand-written solutions).
+
+\begin{enumerate}
+\item 
+(10) Let $f:\mathbb{R}_{+} \rightarrow \mathbb{R}$, with $f(x) = \frac{1}{1+x}$. Let $x_0\in \mathbb{R}_{+}$,
+and define the first- and second-order Taylor approximations of $f$ at $x_0$ as
+\begin{equation}
+\begin{split}
+f_{(1)}(x) & = f(x_0) + f^{\prime}(x_0) (x-x_0), \cr
+f_{(2)}(x) & = f(x_0) + f^{\prime}(x_0) (x-x_0) + \frac{1}{2} f^{\prime\prime}(x_0) (x-x_0)^2. \cr
+\end{split} 
+\end{equation}
+
+\begin{enumerate}
+\item 
+Find the analytic expressions for functions $f^{\prime}$ and $f^{\prime\prime}$;
+\item 
+{\color{blue} (10)} Draw in a common plot $f(x)$, $f_{(1)}(x)$ and $f_{(2)}(x)$ and, in order to understand the behavior of the approximations, consider various values of $x_0$. 
+\end{enumerate}
+
+\item 
+(20) 
+Let $f:\mathbb{R}_+^2 \rightarrow \mathbb{R}$, with $f(x_1,x_2) = \frac{1}{1+x_1+x_2}$.
+\begin{enumerate}
+\item 
+{\color{blue} (2.5)} Compute and plot, via ${\tt mesh}$, $f$ for $x_1,x_2\in[0, x_*]$, with $x_*>0$.
+
+\item
+{\color{blue} (2.5)} Plot the level sets of $f$, via ${\tt contour}$. What do you observe? Can you explain the phenomenon?
+
+\item 
+{\color{blue} (10)} Compute the first- and second-order Taylor approximations of $f$ at point ${\bf x}_0 = (x_{0,1},x_{0,2})$. 
+
+\item 
+{\color{blue} (2.5)} Draw on a common plot $f$ and its first-order Taylor approximation.
+
+\item 
+{\color{blue} (2.5)} Draw on a common plot $f$ and its second-order Taylor approximation.
+\end{enumerate}
+
+
+\newpage 
+\item (20)
+Let $\mathbb{S}_{{\bf a},b} = \{ {\bf x}\in\mathbb{R}^n \, | \, {\bf a}^T {\bf x} \le b \}$. 
+\begin{enumerate}
+\item 
+{\color{blue} (5)} Prove that $\mathbb{S}_{{\bf a}, b}$ is convex.
+
+\item 
+{\color{blue} (15)} Prove that $\mathbb{S}_{{\bf a}, b}$ is {\em not}\/ affine ({\color{blue} a counterexample is sufficient}).
+
+\end{enumerate}
+
+
+\item {\color{blue} (10)}
+Find the point ${\bf x}_*$ that is co-linear with ${\bf a}$ and lies on the hyperplane 
+$\mathbb{H}_{{\bf a}, b}:=\{ {\bf x}\in\mathbb{R}^n\,|\, {\bf a}^T {\bf x}=b\}$.
+
+
+\item 
+(20) Check whether the following functions are convex or not  (using, for example, the second derivative rule).
+\begin{enumerate}
+\item {\color{blue} (5)} 
+$f:\mathbb{R}_{+}\rightarrow \mathbb{R}$, with $f(x)=\frac{1}{1+x}$;
+
+\item 
+{\color{blue} (5)} $f:\mathbb{R}_+^2 \rightarrow \mathbb{R}$, with $f(x_1,x_2) = \frac{1}{1+x_1+x_2}$;
+
+\item 
+{\color{blue} (5)} $f:\mathbb{R}_{++} \rightarrow \mathbb{R}$, with $f(x)=x^a$, for (to get a better feeling, 
+plot function $x^a$, for various values of $a$)
+\begin{enumerate}
+\item 
+$a\ge 1$ and $a\le 0$;
+\item 
+$0\le a \le 1$.
+\end{enumerate}
+
+\item 
+{\color{blue} (5)} $f:\mathbb{R}^2 \rightarrow \mathbb{R}$, with $f({\bf x}) = \|{\bf x}\|_2$ (plot $\|{\bf x}\|_2$ for $n=2$).
+
+\end{enumerate}
+
+\item (20) 
+Let ${\bf A}\in\mathbb{R}^{m\times n}$, ${\bf b}\in\mathbb{R}^m$, and $f:\mathbb{R}^n\rightarrow \mathbb{R}$, with
+$f({\bf x}) = \|{\bf Ax}-{\bf b}\|_2^2$. 
+\begin{enumerate}
+\item {\color{blue} (10)}
+Assume that the columns of ${\bf A}$ are linearly independent and prove that $f$ is strictly convex
+({\color{blue} Prove that the Hessian of $f({\bf x})$ is positive definite}).
+
+\item {\color{blue} (10)} Plot $f$ for $m=3$ and $n=2$. In order to generate the data, generate a random $(3\times 2)$ matrix ${\bf A}$,
+a random $(2\times 1)$ vector ${\bf x}$, and compute ${\bf b}={\bf Ax}$. Then, plot, via ${\tt mesh}$, function $f$ in a 
+square around the true value ${\bf x}$ - use also the ${\tt contour}$ statement. What do you observe?
+
+
+Repeat the above procedure by assuming that ${\bf b}={\bf Ax}+{\bf e}$, where ${\bf e}$ is a ``small noise'' vector. What do you observe?
+\end{enumerate}
+
+\end{enumerate}
+
+
+
+\end{document}

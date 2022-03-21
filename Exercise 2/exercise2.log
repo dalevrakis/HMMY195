@@ -1,0 +1,814 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.27)  17 NOV 2021 17:20
+entering extended mode
+**./exercise2.tex
+(exercise2.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks17
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\mdwmath.sty
+Package: mdwmath 1996/04/11 1.1 Nice mathematical things
+\sq@sqrt=\count268
+LaTeX Info: Redefining \sqrt on input line 84.
+) (C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/epsf\epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read2
+\epsfframemargin=\dimen148
+\epsfframethickness=\dimen149
+\epsfrsize=\dimen150
+\epsftmp=\dimen151
+\epsftsize=\dimen152
+\epsfxsize=\dimen153
+\epsfysize=\dimen154
+\pspoints=\dimen155
+) (C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+\epsfxsize=\dimen158
+\epsfysize=\dimen159
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/a4wide\a4wide.sty
+Package: a4wide 1994/08/30
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/ntgclass\a4.sty
+Package: a4 2020/02/18 v1.2g A4 based page layout
+))
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count269
+\c@continuedfloat=\count270
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count271
+\c@subtable=\count272
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen167
+\calc@Bdimen=\dimen168
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip54
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count276
+\l_MT_multwidth_dim=\dimen169
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen170
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen171
+\l_MT_above_intertext_sep=\dimen172
+\l_MT_below_intertext_sep=\dimen173
+\l_MT_above_shortintertext_sep=\dimen174
+\l_MT_below_shortintertext_sep=\dimen175
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen176
+) (C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count277
+\lst@gtempboxa=\box53
+\lst@token=\toks22
+\lst@length=\count278
+\lst@currlwidth=\dimen177
+\lst@column=\count279
+\lst@pos=\count280
+\lst@lostspace=\dimen178
+\lst@width=\dimen179
+\lst@newlines=\count281
+\lst@lineno=\count282
+\lst@maxwidth=\dimen180
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count283
+\lst@skipnumbers=\count284
+\lst@framebox=\box54
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box55
+) (exercise2.aux)
+\openout1 = `exercise2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen181
+\scratchbox=\box56
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen182
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count292
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+
+ (C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+
+
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[1
+
+{C:/Users/dalev/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+(Exercise2.m
+consecutive:
+) (Exercise2.m
+consecutive:
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+5.
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+
+Overfull \hbox (138.17445pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+) (Exercise2.m
+consecutive:
+[3]
+Overfull \hbox (116.20224pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (116.20224pt too wide) in paragraph at lines 23--24
+[][][][][][][] 
+ []
+
+) (Exercise2.m
+consecutive:
+
+Overfull \hbox (123.25223pt too wide) in paragraph at lines 37--38
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [4]
+<1_3.png, id=26, 1226.33156pt x 670.75594pt>
+File: 1_3.png Graphic file (type png)
+<use 1_3.png>
+Package pdftex.def Info: 1_3.png  used on input line 154.
+(pdftex.def)             Requested size: 207.32315pt x 113.39243pt.
+<1_2.png, id=27, 1224.07312pt x 682.04813pt>
+File: 1_2.png Graphic file (type png)
+<use 1_2.png>
+Package pdftex.def Info: 1_2.png  used on input line 159.
+(pdftex.def)             Requested size: 207.32315pt x 115.51994pt.
+<2_3.png, id=28, 1230.84843pt x 663.22781pt>
+File: 2_3.png Graphic file (type png)
+<use 2_3.png>
+Package pdftex.def Info: 2_3.png  used on input line 167.
+(pdftex.def)             Requested size: 207.32315pt x 111.70486pt.
+<2_2.png, id=29, 1238.37656pt x 687.31781pt>
+File: 2_2.png Graphic file (type png)
+<use 2_2.png>
+Package pdftex.def Info: 2_2.png  used on input line 172.
+(pdftex.def)             Requested size: 207.32315pt x 115.05959pt.
+<3_3.png, id=30, 1226.33156pt x 688.07062pt>
+File: 3_3.png Graphic file (type png)
+<use 3_3.png>
+Package pdftex.def Info: 3_3.png  used on input line 180.
+(pdftex.def)             Requested size: 207.32315pt x 116.3195pt.
+<3_2.png, id=31, 1224.82594pt x 691.83469pt>
+File: 3_2.png Graphic file (type png)
+<use 3_2.png>
+Package pdftex.def Info: 3_2.png  used on input line 185.
+(pdftex.def)             Requested size: 207.32315pt x 117.10362pt.
+<4_3.png, id=32, 1215.03937pt x 663.22781pt>
+File: 4_3.png Graphic file (type png)
+<use 4_3.png>
+Package pdftex.def Info: 4_3.png  used on input line 193.
+(pdftex.def)             Requested size: 207.32315pt x 113.16216pt.
+<4_2.png, id=33, 1197.72469pt x 656.4525pt>
+File: 4_2.png Graphic file (type png)
+<use 4_2.png>
+Package pdftex.def Info: 4_2.png  used on input line 198.
+(pdftex.def)             Requested size: 207.32315pt x 113.62881pt.
+<5_3.png, id=34, 1214.28656pt x 651.18282pt>
+File: 5_3.png Graphic file (type png)
+<use 5_3.png>
+Package pdftex.def Info: 5_3.png  used on input line 206.
+(pdftex.def)             Requested size: 207.32315pt x 111.17654pt.
+<5_2.png, id=35, 1226.33156pt x 661.72218pt>
+File: 5_2.png Graphic file (type png)
+<use 5_2.png>
+Package pdftex.def Info: 5_2.png  used on input line 211.
+(pdftex.def)             Requested size: 207.32315pt x 111.86526pt.
+<2_4.png, id=36, 1239.12938pt x 681.29532pt>
+File: 2_4.png Graphic file (type png)
+<use 2_4.png>
+Package pdftex.def Info: 2_4.png  used on input line 226.
+(pdftex.def)             Requested size: 207.32315pt x 113.98901pt.
+<2_1.png, id=37, 1235.36531pt x 673.76718pt>
+File: 2_1.png Graphic file (type png)
+<use 2_1.png>
+Package pdftex.def Info: 2_1.png  used on input line 231.
+(pdftex.def)             Requested size: 207.32315pt x 113.06874pt.
+<3_4.png, id=38, 1231.60126pt x 678.28406pt>
+File: 3_4.png Graphic file (type png)
+<use 3_4.png>
+Package pdftex.def Info: 3_4.png  used on input line 239.
+(pdftex.def)             Requested size: 207.32315pt x 114.17863pt.
+<3_1.png, id=39, 1232.35406pt x 653.44125pt>
+File: 3_1.png Graphic file (type png)
+<use 3_1.png>
+Package pdftex.def Info: 3_1.png  used on input line 244.
+(pdftex.def)             Requested size: 207.32315pt x 109.92694pt.
+<4_4.png, id=40, 1225.57875pt x 664.73344pt>
+File: 4_4.png Graphic file (type png)
+<use 4_4.png>
+Package pdftex.def Info: 4_4.png  used on input line 252.
+(pdftex.def)             Requested size: 207.32315pt x 112.44533pt.
+<4_1.png, id=41, 1208.26407pt x 658.71094pt>
+File: 4_1.png Graphic file (type png)
+<use 4_1.png>
+Package pdftex.def Info: 4_1.png  used on input line 257.
+(pdftex.def)             Requested size: 207.32315pt x 113.02469pt.
+<5_4.png, id=42, 1242.89343pt x 672.26157pt>
+File: 5_4.png Graphic file (type png)
+<use 5_4.png>
+Package pdftex.def Info: 5_4.png  used on input line 265.
+(pdftex.def)             Requested size: 207.32315pt x 112.13905pt.
+<5_1.png, id=43, 1253.43282pt x 662.475pt>
+File: 5_1.png Graphic file (type png)
+<use 5_1.png>
+Package pdftex.def Info: 5_1.png  used on input line 270.
+(pdftex.def)             Requested size: 207.32315pt x 109.57658pt.
+ [5 <./1_3.png> <./1_2.png>] [6 <./2_3.png> <./2_2.png> <./3_3.png> <./3_2.png>
+ <./4_3.png> <./4_2.png> <./5_3.png> <./5_2.png>] [7 <./2_4.png> <./2_1.png> <.
+/3_4.png> <./3_1.png> <./4_4.png> <./4_1.png>]
+<6.png, id=57, 1218.05063pt x 663.98062pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 279.
+(pdftex.def)             Requested size: 414.6463pt x 226.02397pt.
+ [8 <./5_4.png> <./5_1.png> <./6.png>]
+Overfull \hbox (5.16357pt too wide) detected at line 306
+[]
+ []
+
+
+Overfull \hbox (77.1966pt too wide) detected at line 306
+[]
+ []
+
+
+Overfull \hbox (20.05077pt too wide) detected at line 326
+[]
+ []
+
+
+Overfull \hbox (77.1966pt too wide) detected at line 326
+[]
+ []
+
+[9] (Exercise2_C.m
+consecutive:
+) [10]
+<C_b_1.png, id=67, 1246.6575pt x 690.32906pt>
+File: C_b_1.png Graphic file (type png)
+<use C_b_1.png>
+Package pdftex.def Info: C_b_1.png  used on input line 350.
+(pdftex.def)             Requested size: 207.32315pt x 114.79472pt.
+<C_b_2.png, id=68, 1222.5675pt x 668.4975pt>
+File: C_b_2.png Graphic file (type png)
+<use C_b_2.png>
+Package pdftex.def Info: C_b_2.png  used on input line 356.
+(pdftex.def)             Requested size: 207.32315pt x 113.35745pt.
+ [11 <./C_b_1.png> <./C_b_2.png>]
+<C_e_1.png, id=74, 1445.4pt x 713.66624pt>
+File: C_e_1.png Graphic file (type png)
+<use C_e_1.png>
+Package pdftex.def Info: C_e_1.png  used on input line 375.
+(pdftex.def)             Requested size: 207.32315pt x 102.36276pt.
+<C_e_2.png, id=75, 1445.4pt x 713.66624pt>
+File: C_e_2.png Graphic file (type png)
+<use C_e_2.png>
+Package pdftex.def Info: C_e_2.png  used on input line 381.
+(pdftex.def)             Requested size: 207.32315pt x 102.36276pt.
+<C_e_3.png, id=76, 1445.4pt x 713.66624pt>
+File: C_e_3.png Graphic file (type png)
+<use C_e_3.png>
+Package pdftex.def Info: C_e_3.png  used on input line 387.
+(pdftex.def)             Requested size: 207.32315pt x 102.36276pt.
+ [12 <./C_e_1.png (PNG copy)> <./C_e_2.png (PNG copy)> <./C_e_3.png (PNG copy)>
+] (Exercise2.m
+Overfull \hbox (116.20224pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (116.20224pt too wide) in paragraph at lines 23--24
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (299.50192pt too wide) in paragraph at lines 30--32
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+[13]
+Overfull \hbox (123.25223pt too wide) in paragraph at lines 37--38
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 5
+0.
+(C:\Users\dalev\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 50.
+
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 51--52
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (221.95206pt too wide) in paragraph at lines 57--58
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[14]
+Overfull \hbox (553.30148pt too wide) in paragraph at lines 72--73
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+
+Overfull \hbox (250.15201pt too wide) in paragraph at lines 79--80
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+
+Overfull \hbox (539.2015pt too wide) in paragraph at lines 87--88
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 89--90
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (158.50217pt too wide) in paragraph at lines 92--94
+[][][][][] 
+ []
+
+
+Overfull \hbox (24.5524pt too wide) in paragraph at lines 95--96
+[][][][][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 116--117
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (419.35172pt too wide) in paragraph at lines 118--119
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1878.69919pt too wide) in paragraph at lines 119--121
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][] 
+ []
+
+
+Overfull \hbox (292.45193pt too wide) in paragraph at lines 122--124
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+
+Overfull \hbox (623.80136pt too wide) in paragraph at lines 129--130
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][] 
+ []
+
+[16]
+Overfull \hbox (525.10153pt too wide) in paragraph at lines 139--140
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (59.80234pt too wide) in paragraph at lines 142--143
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (623.80136pt too wide) in paragraph at lines 153--154
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][] 
+ []
+
+
+Overfull \hbox (95.05228pt too wide) in paragraph at lines 161--162
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[17]
+Overfull \hbox (292.45193pt too wide) in paragraph at lines 168--169
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 169--170
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+) (Exercise2_Bvii.m [18]
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 42--43
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (355.90182pt too wide) in paragraph at lines 50--51
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (144.40219pt too wide) in paragraph at lines 55--56
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[19]
+Overfull \hbox (595.60141pt too wide) in paragraph at lines 66--67
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][] 
+ []
+
+
+Overfull \hbox (278.35196pt too wide) in paragraph at lines 67--68
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (80.9523pt too wide) in paragraph at lines 69--401
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+(Exercise2_C.m
+Overfull \hbox (66.85233pt too wide) in paragraph at lines 8--9
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[20]
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 23--24
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 24--25
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (52.75235pt too wide) in paragraph at lines 31--32
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 39--40
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 40--41
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (24.5524pt too wide) in paragraph at lines 42--44
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 46--47
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 47--48
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (17.50241pt too wide) in paragraph at lines 48--49
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (24.5524pt too wide) in paragraph at lines 49--50
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[21]
+Overfull \hbox (24.5524pt too wide) in paragraph at lines 70--71
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 80--81
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (59.80234pt too wide) in paragraph at lines 84--85
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (102.10226pt too wide) in paragraph at lines 85--86
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[22]
+Overfull \hbox (24.5524pt too wide) in paragraph at lines 118--119
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[23]
+Overfull \hbox (59.80234pt too wide) in paragraph at lines 122--123
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (102.10226pt too wide) in paragraph at lines 123--124
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (285.40195pt too wide) in paragraph at lines 134--135
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (38.65237pt too wide) in paragraph at lines 136--137
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (116.20224pt too wide) in paragraph at lines 137--138
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (31.60239pt too wide) in paragraph at lines 144--145
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[24]) [25] (exercise2.aux) ) 
+Here is how much of TeX's memory you used:
+ 6462 strings out of 478927
+ 98979 string characters out of 2852534
+ 435849 words of memory out of 3000000
+ 24208 multiletter control sequences out of 15000+600000
+ 411196 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,21n,80p,639b,1671s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\dalev\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/dalev/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dalev/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/dalev/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/dalev/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/d
+alev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Users/dalev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><C:/Users/dalev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi6.pfb><C:/Users/dalev/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Users/dalev/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/dalev/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dalev/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/dalev/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dalev/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dalev/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users
+/dalev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+C:/Users/dalev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbol
+s/msbm10.pfb>
+Output written on exercise2.pdf (25 pages, 1725300 bytes).
+PDF statistics:
+ 195 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
